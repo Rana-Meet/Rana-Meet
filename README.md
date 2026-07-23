@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Meet Rana</h1>
 
-<!--
-**Rana-Meet/Rana-Meet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Developer | B.Sc. Computer Science Student | Laravel • Django • Java
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rana-Meet&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. Computer Science Student at Gujarat University
+- 💼 Software Developer Intern at Swarnim Touch Technology
+- 🌱 Currently learning Laravel, Django, REST APIs & WebSockets
+- 💡 Passionate about Full Stack Web Development
+- 📍 Ahmedabad, Gujarat, India
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,php,python,laravel,django,mysql,html,css,js,bootstrap,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 Online Course Management System
+Java • MySQL • REST API • MVC
+
+### 🛒 E-Commerce Website
+Django • HTML • CSS • JavaScript
+
+### 💬 Real-Time Chat Application
+Python • Django Channels • WebSockets
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Rana-Meet&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Rana-Meet&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Meet&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: ranameet165@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/rana-meet-b0955236b
+
+---
+
+⭐ Thanks for visiting my profile!
