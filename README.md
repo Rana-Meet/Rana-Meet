@@ -24,7 +24,7 @@ Software Developer | B.Sc. Computer Science Student | Laravel • Django • Jav
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,php,python,laravel,django,mysql,html,css,js,bootstrap,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=java,php,python,laravel,django,mysql,html,css,js,bootstrap,git,github,vscode,react,postman" />
 </p>
 
 ---
