@@ -12,10 +12,11 @@ Software Developer | B.Sc. Computer Science Student | Laravel • Django • Jav
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Sc. Computer Science Student at Gujarat University
+- 🎓 M.Sc. Computer Science Student at Gujarat University
 - 💼 Software Developer Intern at Swarnim Touch Technology
 - 🌱 Currently learning Laravel, Django, REST APIs & WebSockets
 - 💡 Passionate about Full Stack Web Development
+- 💡 MERN Stack Devloper 
 - 📍 Ahmedabad, Gujarat, India
 
 ---
