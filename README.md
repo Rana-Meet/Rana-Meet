@@ -118,21 +118,30 @@ I'm currently pursuing **M.Sc. Computer Science at Gujarat University** and deve
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana-Meet&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rana-Meet&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Meet&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
----
-
-## 📈 Contribution Activity
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana-Meet&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Rana-Meet&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
----
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rana-Meet&theme=tokyonight&no-frame=true&margin-w=10" width="100%" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana-Meet&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 ## 💼 What I'm Interested In
 
