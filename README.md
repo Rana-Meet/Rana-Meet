@@ -113,41 +113,31 @@ Currently pursuing **M.Sc. Computer Science at Gujarat University**, I enjoy dev
 - WebSocket communication.
 - Dynamic message handling.
 
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Developer Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rana-Meet&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Meet&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Rana-Meet&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
-
----
-
-## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rana-Meet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/GitHub-Active%20Developer-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Always-success?style=for-the-badge" />
 </p>
 
----
+### 💻 My GitHub Profile
 
-## 🏆 GitHub Achievements
+- 👨‍💻 GitHub: [@Rana-Meet](https://github.com/Rana-Meet)
+- 📦 Repositories: [Explore My Projects](https://github.com/Rana-Meet?tab=repositories)
+- 🔥 Contributions: [View My Contributions](https://github.com/Rana-Meet?tab=overview&from=2026-01-01&to=2026-12-31)
+
+### 🚀 Featured Repository
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana-Meet&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  <a href="https://github.com/Rana-Meet/Event-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana-Meet&repo=Event-Management-System&theme=tokyonight&hide_border=true" alt="Event Management System" />
+  </a>
 </p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana-Meet&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
 ## 💼 Areas of Interest
 
 - Full Stack Web Development
