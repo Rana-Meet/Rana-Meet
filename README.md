@@ -3,12 +3,12 @@
 <h3 align="center">🚀 Software Developer | Full Stack Developer | M.Sc. Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Laravel+%7C+Django+%7C+React;Building+Real+World+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Laravel+%7C+Django+%7C+React;Building+Real+World+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rana-Meet&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Rana-Meet?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Rana-Meet&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Rana-Meet?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </p>
 
 ---
@@ -17,43 +17,48 @@
 
 Hello! I'm **Meet Rana**, a passionate Software Developer from Ahmedabad, Gujarat, India.
 
-I'm currently pursuing **M.Sc. Computer Science at Gujarat University** and developing my skills in modern software development technologies.
+Currently pursuing **M.Sc. Computer Science at Gujarat University**, I enjoy developing modern web applications and exploring new technologies.
 
-- 🎓 M.Sc. Computer Science Student
-- 💼 Former Web Developer Intern at Swarnim Touch Pvt. Ltd.
+- 🎓 M.Sc. Computer Science Student at Gujarat University
+- 💼 Web Developer Intern at Swarnim Touch Pvt. Ltd.
 - 💻 Interested in Full Stack Web Development
-- 🌱 Learning MERN Stack, Laravel, Django, Flutter & REST APIs
-- 🔥 Exploring AI Integration, Firebase and Cloud Technologies
-- 🎯 Goal: Build scalable, secure and user-friendly applications
-- 🤝 Open to internships, collaborations and software development opportunities
+- 🌱 Learning MERN Stack, Laravel, Django, Flutter and REST APIs
+- 🤖 Exploring AI Integration, Firebase and Cloud Technologies
+- 🎯 Focused on building scalable and user-friendly applications
+- 🤝 Open to internships, collaborations and job opportunities
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,dart" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,dart" alt="Programming Languages" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend Technologies" />
 </p>
 
-### Backend Development
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" alt="Backend Technologies" />
 </p>
 
-### Database & Cloud
+### 🗄️ Database & Cloud
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Database and Cloud" />
 </p>
 
-### Tools & Technologies
+### 🔧 Tools & Technologies
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio" alt="Developer Tools" />
 </p>
 
 ---
@@ -61,26 +66,29 @@ I'm currently pursuing **M.Sc. Computer Science at Gujarat University** and deve
 ## 🚀 Featured Projects
 
 ### 🎓 1. Event Management System
-**Tech Stack:** Laravel | PHP | MySQL | JavaScript | Bootstrap
 
-- Developed an event management platform.
-- Event creation and management functionality.
+**Technologies:** Laravel | PHP | MySQL | JavaScript | Bootstrap
+
+- Event creation and management.
 - Database-driven application.
-- Admin-side management features.
+- Admin-side management functionality.
+- Event information management.
 
-🔗 [View Project on GitHub](https://github.com/Rana-Meet/Event-Management-System)
+🔗 [View Source Code](https://github.com/Rana-Meet/Event-Management-System)
 
 ### 🎬 2. MovieHub – Movie Discovery Platform
-**Tech Stack:** MongoDB | Express.js | React.js | Node.js | TMDB API
+
+**Technologies:** MongoDB | Express.js | React.js | Node.js | TMDB API
 
 - Movie discovery and browsing.
 - Search movies and view details.
 - User authentication.
 - Watchlist functionality.
-- Third-party movie API integration.
+- Movie API integration.
 
 ### 🤖 3. AI StudyMate
-**Tech Stack:** Flutter | Dart | Firebase | AI Integration
+
+**Technologies:** Flutter | Dart | Firebase | AI Integration
 
 - AI-powered study assistant.
 - AI chat and question answering.
@@ -89,15 +97,17 @@ I'm currently pursuing **M.Sc. Computer Science at Gujarat University** and deve
 - Study planning and progress tracking.
 
 ### 🎓 4. Student Management Dashboard
-**Tech Stack:** React.js | Node.js | Express.js | MongoDB
+
+**Technologies:** React.js | Node.js | Express.js | MongoDB
 
 - Student authentication.
 - Dashboard management.
 - Student data management.
-- Backend REST API integration.
+- REST API integration.
 
 ### 💬 5. Real-Time Chat Application
-**Tech Stack:** Python | Django | Django Channels | WebSockets
+
+**Technologies:** Python | Django | Django Channels | WebSockets
 
 - Real-time messaging.
 - WebSocket communication.
@@ -108,49 +118,44 @@ I'm currently pursuing **M.Sc. Computer Science at Gujarat University** and deve
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rana-Meet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Rana-Meet&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Meet&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rana-Meet&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Meet&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rana-Meet&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Meet&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Rana-Meet&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🔥 Contribution Streak
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rana-Meet&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rana-Meet&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana-Meet&theme=tokyonight&no-frame=true&margin-w=10" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana-Meet&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
-## 📈 Contribution Graph
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana-Meet&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
-## 💼 What I'm Interested In
+## 💼 Areas of Interest
 
 - Full Stack Web Development
 - MERN Stack Development
 - Backend Development
 - AI-Powered Applications
 - REST API Development
-- Database Design & Management
+- Database Design and Management
 - Cloud & Firebase Technologies
 
 ---
@@ -159,13 +164,13 @@ I'm currently pursuing **M.Sc. Computer Science at Gujarat University** and deve
 
 <p align="center">
   <a href="https://github.com/Rana-Meet">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/rana-meet-b0955236b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ranameet165@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -175,10 +180,10 @@ I'm currently pursuing **M.Sc. Computer Science at Gujarat University** and deve
 
 ---
 
-<h3 align="center">💡 "Code. Learn. Build. Innovate. Repeat."</h3>
+<h3 align="center">💡 Code. Learn. Build. Innovate. Repeat.</h3>
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile! 
-  <br/>
+  ⭐ Thanks for visiting my GitHub profile!
+  <br />
   Let's connect and build something amazing together.
 </p>
