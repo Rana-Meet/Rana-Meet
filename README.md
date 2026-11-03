@@ -113,17 +113,6 @@ Currently pursuing **M.Sc. Computer Science at Gujarat University**, I enjoy dev
 - WebSocket communication.
 - Dynamic message handling.
 
-## 📊 GitHub Developer Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rana-Meet&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Active%20Developer-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Always-success?style=for-the-badge" />
-</p>
 
 ### 💻 My GitHub Profile
 
