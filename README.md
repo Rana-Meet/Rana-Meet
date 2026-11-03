@@ -124,7 +124,7 @@ Currently pursuing **M.Sc. Computer Science at Gujarat University**, I enjoy dev
 
 <p align="center">
   <a href="https://github.com/Rana-Meet/Event-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana-Meet&repo=Event-Management-System&theme=tokyonight&hide_border=true" alt="Event Management System" />
+    
   </a>
 </p>
 ## 💼 Areas of Interest
