@@ -20,7 +20,7 @@ Hello! I'm **Meet Rana**, a passionate Software Developer from Ahmedabad, Gujara
 Currently pursuing **M.Sc. Computer Science at Gujarat University**, I enjoy developing modern web applications and exploring new technologies.
 
 - 🎓 M.Sc. Computer Science Student at Gujarat University
-- 💼 Web Developer Intern at Swarnim Touch Pvt. Ltd.
+- 💼 Software Developer Intern at Swarnim Touch Pvt. Ltd.
 - 💻 Interested in Full Stack Web Development
 - 🌱 Learning MERN Stack, Laravel, Django, Flutter and REST APIs
 - 🤖 Exploring AI Integration, Firebase and Cloud Technologies
