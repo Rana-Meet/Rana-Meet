@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Meet Rana
 
-<h3 align="center">💻 Software Developer | Full Stack Developer | M.Sc. Computer Science</h3>
+<h3 align="center">💻 Software Developer | Application Devloper  | M.Sc. Computer Science</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+%7C+Django+%7C+React;Building+Real+World+Applications;Always+Learning+New+Technologies" />
