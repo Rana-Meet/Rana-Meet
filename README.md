@@ -4,7 +4,7 @@
 <h3 align="center">💻 Software Developer | Full Stack Developer | M.Sc. Computer Science</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+%7C+Django+%7C+React;Building+Real+World+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Laravel+%7C+Django+%7C+React;Building+Real+World+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -97,14 +97,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rana-Meet&theme=darkhub&no-frame=true&margin-w=8&column=6" width="100%" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -125,8 +117,8 @@
 
 ---
 
-<h3 align="center">Code. Learn. Build. Innovate.</h3>
+<h3 align="center">⚡ Code. Learn. Build. Innovate. ⚡</h3>
 
 <p align="center">
-  Thanks for visiting my GitHub profile!
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=2500&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together." />
 </p>
