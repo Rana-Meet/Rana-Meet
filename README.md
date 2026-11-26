@@ -1,155 +1,226 @@
-# 👋 Hi, I'm Meet Rana
 
-<h3 align="center">🚀 Software Developer | Full Stack Developer | M.Sc. Computer Science Student</h3>
+# 👋 Hey, I'm Meet Rana!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Laravel+%7C+Django+%7C+React;Building+Real+World+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Meet%20Rana&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%" />
+</p>
+
+<h3 align="center">
+  💻 Full Stack Developer | 🚀 MERN Developer | 🎓 M.Sc. Computer Science
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;Building+Modern+Web+Applications;Laravel+%7C+Django+%7C+MERN+Stack;Flutter+%7C+Firebase+%7C+AI+Integration;Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Innovate" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rana-Meet&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rana-Meet?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Rana-Meet&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Rana-Meet?label=FOLLOWERS&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌌 About Me
 
-Hello! I'm **Meet Rana**, a passionate Software Developer from Ahmedabad, Gujarat, India.
-
-Currently pursuing **M.Sc. Computer Science at Gujarat University**, I enjoy developing modern web applications and exploring new technologies.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🎓 M.Sc. Computer Science Student at Gujarat University
 - 💼 Software Developer Intern at Swarnim Touch Pvt. Ltd.
-- 💻 Interested in Full Stack Web Development
-- 🌱 Learning MERN Stack, Laravel, Django, Flutter and REST APIs
-- 🤖 Exploring AI Integration, Firebase and Cloud Technologies
-- 🎯 Focused on building scalable and user-friendly applications
+- 💻 Passionate about Full Stack Web Development
+- 🚀 Exploring MERN Stack, Laravel and Django
+- 🤖 Interested in AI-powered applications
+- 📱 Exploring Flutter and Firebase
+- 🌱 Continuously learning and building real-world projects
 - 🤝 Open to internships, collaborations and job opportunities
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Tech Stack
 
-### 💻 Programming Languages
+### 👨‍💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,dart" alt="Programming Languages" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,dart&theme=dark" />
 </p>
 
 ### 🎨 Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" alt="Frontend Technologies" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" alt="Backend Technologies" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django&theme=dark" />
 </p>
 
 ### 🗄️ Database & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Database and Cloud" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio" alt="Developer Tools" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 1. Event Management System
+### 🎓 Event Management System
 
-**Technologies:** Laravel | PHP | MySQL | JavaScript | Bootstrap
+> Laravel-based event management application.
 
-- Event creation and management.
-- Database-driven application.
-- Admin-side management functionality.
-- Event information management.
+- Event creation and management
+- Admin management system
+- Database-driven application
+- Event information management
 
-🔗 [View Source Code](https://github.com/Rana-Meet/Event-Management-System)
-
-### 🎬 2. MovieHub – Movie Discovery Platform
-
-**Technologies:** MongoDB | Express.js | React.js | Node.js | TMDB API
-
-- Movie discovery and browsing.
-- Search movies and view details.
-- User authentication.
-- Watchlist functionality.
-- Movie API integration.
-
-### 🤖 3. AI StudyMate
-
-**Technologies:** Flutter | Dart | Firebase | AI Integration
-
-- AI-powered study assistant.
-- AI chat and question answering.
-- Notes summarization.
-- MCQ and flashcard generation.
-- Study planning and progress tracking.
-
-### 🎓 4. Student Management Dashboard
-
-**Technologies:** React.js | Node.js | Express.js | MongoDB
-
-- Student authentication.
-- Dashboard management.
-- Student data management.
-- REST API integration.
-
-### 💬 5. Real-Time Chat Application
-
-**Technologies:** Python | Django | Django Channels | WebSockets
-
-- Real-time messaging.
-- WebSocket communication.
-- Dynamic message handling.
-
-
-### 💻 My GitHub Profile
-
-- 👨‍💻 GitHub: [@Rana-Meet](https://github.com/Rana-Meet)
-- 📦 Repositories: [Explore My Projects](https://github.com/Rana-Meet?tab=repositories)
-- 🔥 Contributions: [View My Contributions](https://github.com/Rana-Meet?tab=overview&from=2026-01-01&to=2026-12-31)
-
-### 🚀 Featured Repository
-
-<p align="center">
-  <a href="https://github.com/Rana-Meet/Event-Management-System">
-    
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Laravel-red?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
-## 💼 Areas of Interest
 
-- Full Stack Web Development
-- MERN Stack Development
-- Backend Development
-- AI-Powered Applications
-- REST API Development
-- Database Design and Management
-- Cloud & Firebase Technologies
+🔗 [View Repository](https://github.com/Rana-Meet/Event-Management-System)
 
 ---
 
-## 🤝 Connect With Me
+### 🎬 MovieHub
+
+> Movie discovery platform built using the MERN Stack.
+
+- Browse and discover movies
+- Movie search and details
+- User authentication
+- Watchlist functionality
+- TMDB API integration
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+### 🤖 AI StudyMate
+
+> AI-powered mobile application for students.
+
+- AI chat and question answering
+- Notes summarization
+- MCQ generation
+- Flashcards
+- Study planner
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI-8E44AD?style=flat-square" />
+</p>
+
+---
+
+### 🎓 Student Management Dashboard
+
+> Student management system using React and Express.
+
+- Student authentication
+- Dashboard
+- CRUD operations
+- REST API integration
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
+</p>
+
+---
+
+### 💬 Real-Time Chat Application
+
+> Real-time messaging application using Django.
+
+- Real-time messaging
+- WebSocket communication
+- Dynamic message handling
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-FF9900?style=flat-square" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rana-Meet&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-Meet&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rana-Meet&theme=tokyonight&hide_border=true&border_radius=15" width="70%" />
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rana-Meet/Rana-Meet/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rana-Meet&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rana-Meet&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
+</p>
+
+---
+
+## 💼 Areas of Interest
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Applications-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Development-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Rana-Meet">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rana-meet-b0955236b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ranameet165@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -159,10 +230,18 @@ Currently pursuing **M.Sc. Computer Science at Gujarat University**, I enjoy dev
 
 ---
 
-<h3 align="center">💡 Code. Learn. Build. Innovate. Repeat.</h3>
+<h3 align="center">
+  ⚡ Code • Learn • Build • Innovate • Repeat ⚡
+</h3>
 
 <p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
-  <br />
-  Let's connect and build something amazing together.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=F7B93E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  ⭐ Star my repositories if you find them interesting!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0F172A&height=120&section=footer" width="100%" />
 </p>
